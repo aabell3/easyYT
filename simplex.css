@@ -196,6 +196,7 @@ th {
   padding: 0;
 }
 /*! Source: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css */
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
 @media print {
   *,
   *:before,
