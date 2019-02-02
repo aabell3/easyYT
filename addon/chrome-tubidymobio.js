@@ -4,8 +4,8 @@
 // @icon            https://www.easy-youtube-mp3.com/addon/icon.png
 //
 // @author          Theveloper
-// @namespace       https://www.easy-youtube-mp3.com/
-// @downloadURL     https://www.easy-youtube-mp3.com/addon/easy-youtube-mp3.user.js
+// @namespace       https://tubidymp3download.com
+// @downloadURL     https://raw.githubusercontent.com/aabell3/easyYT/master/addon/chrome-tubidymobio.js
 //
 // @license         GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
 // @copyright       Copyright (C) 2018, by Theveloper
@@ -14,7 +14,7 @@
 // @include         https://www.youtube.com/*
 //
 // @version         2.1
-// @updateURL       https://www.easy-youtube-mp3.com/addon/easy-youtube-mp3.user.js
+// @updateURL       https://raw.githubusercontent.com/aabell3/easyYT/master/addon/chrome-tubidymobio.js
 //
 // @run-at          document-end
 // @unwrap
